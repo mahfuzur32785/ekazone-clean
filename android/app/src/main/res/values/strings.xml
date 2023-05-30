@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ekayzone</string>
+    <string name="facebook_app_id">889395265462824</string>
+    <string name="fb_login_protocol_scheme">fb889395265462824</string>
+    <string name="facebook_client_token">deca7be982f4a057215b6d8bd2d31dfd</string>
+
+</resources>

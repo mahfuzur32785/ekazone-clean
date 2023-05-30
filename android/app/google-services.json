@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814672157665",
+    "project_id": "ekayzoneapp",
+    "storage_bucket": "ekayzoneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814672157665:android:8884ce0ee246a9d7c990a0",
+        "android_client_info": {
+          "package_name": "com.alikaforklift.ekayzone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD66f3PKMlTvcqwE6p4S-BsVkpoqUhrrSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
